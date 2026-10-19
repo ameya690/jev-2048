@@ -1,8 +1,6 @@
 # Can Jev play 2048?
 
-A weekend test of [Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev), TypeSafe's
-"System One" model — a classifier that returns a typed choice with calibrated probabilities instead
-of text. The idea was simple and a bit silly: 2048 is a four-way decision, Jev makes four-way
+A weekend test of [Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev). The idea was simple and a bit silly: 2048 is a four-way decision, Jev makes four-way
 decisions, so point one at the other and see what happens.
 
 It was fun. It also went somewhere more interesting than "did it win."
